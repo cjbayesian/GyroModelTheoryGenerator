@@ -1,5 +1,6 @@
 ## Theory of the Origin, Evolution, and Nature of Life
 ## The Gyre explains all!
+## Author: Corey Chivers
 
 lex<-as.matrix(read.table('lexicon.txt',header=FALSE))
 
