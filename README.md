@@ -9,9 +9,9 @@ The first step is to source the R script `source('gyre.R')`, which will read in 
 topic of your favourite, well, er, anything:
 
 ``` R
-// For example:
+## For example:
 theory_gen("The reason that cats hate dogs")
-// or:
+## or:
 theory_gen("Why I procrastinate")
 ```
 
